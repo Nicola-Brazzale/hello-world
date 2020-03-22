@@ -1,2 +1,3 @@
 # hello-world
-A new repository
+
+Learning how to use branches
